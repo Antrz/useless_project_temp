@@ -137,11 +137,9 @@ Then open your browser and go to:
 1.Screenshot1
    https://github.com/Antrz/useless_project_temp/blob/main/WhatsApp%20Image%202026-09-12%20at%206.26.38%20AM.jpeg
 2.Screenshot2
-   https://github.com/SarayuSuresh18/useless-figma/blob/main/Screenshot%20(146).png
-  
+  https://github.com/Antrz/useless_project_temp/blob/main/WhatsApp%20Image%202026-09-12%20at%206.59.00%20AM.jpeg  
 3.Screenshot3
-   https://github.com/SarayuSuresh18/useless-figma/blob/main/Screenshot%20(147).png
-
+  https://github.com/Antrz/useless_project_temp/blob/main/WhatsApp%20Image%202026-09-12%20at%206.59.00%20AM.jpeg
   
 ### Video
 
