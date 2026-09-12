@@ -143,8 +143,7 @@ Then open your browser and go to:
   
 ### Video
 
-https://github.com/SarayuSuresh18/useless-figma/blob/main/Recording%202026-09-12%20055920%20(1).mp4 
----
+https://github.com/Antrz/useless_project_temp/blob/main/WhatsApp%20Video%202026-09-12%20at%206.58.56%20AM.mp4---
 
 ## Team "no cap"
 - **Sarayu Suresh**
