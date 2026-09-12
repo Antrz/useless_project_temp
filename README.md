@@ -135,8 +135,7 @@ Then open your browser and go to:
 *Add your live screenshots below:*
 
 1.Screenshot1
-   https://github.com/SarayuSuresh18/useless-figma/blob/main/Screenshot%20(145).png 
-
+   https://github.com/Antrz/useless_project_temp/blob/main/WhatsApp%20Image%202026-09-12%20at%206.26.38%20AM.jpeg
 2.Screenshot2
    https://github.com/SarayuSuresh18/useless-figma/blob/main/Screenshot%20(146).png
   
